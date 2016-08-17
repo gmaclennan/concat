@@ -1,5 +1,5 @@
 var concat = require("../");
-var test = require("prova");
+var test = require("tape");
 var fs = require("fs");
 
 test('concat', function (assert) {

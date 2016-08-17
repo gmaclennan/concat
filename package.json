@@ -21,6 +21,6 @@
     "serial-loop": "azer/serial-loop"
   },
   "devDependencies": {
-    "prova": "^1.10.0"
+    "tape": "^4.6.0"
   }
 }
