@@ -1,4 +1,4 @@
-var loop = require("serial-loop");
+var loop = require("@gmaclennan/serial-loop");
 var fs = require("fs");
 
 module.exports = concat;

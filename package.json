@@ -1,5 +1,5 @@
 {
-  "name": "concat",
+  "name": "@gmaclennan/concat",
   "version": "1.0.0",
   "description": "Concatenate files",
   "main": "index.js",
@@ -17,8 +17,7 @@
   "author": "azer",
   "license": "BSD",
   "dependencies": {
-    "parallel-loop": "azer/parallel-loop",
-    "serial-loop": "azer/serial-loop"
+    "@gmaclennan/serial-loop": "0.0.1"
   },
   "devDependencies": {
     "tape": "^4.6.0"
